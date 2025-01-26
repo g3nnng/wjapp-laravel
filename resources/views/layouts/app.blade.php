@@ -8,8 +8,7 @@
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wgt@400;600&display=swap">
 
-    <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 
     <script src="https://cdn.jsdelivr.net/npm/vue@3.2.45/dist/vue.global.prod.js"></script> 
 </head>
