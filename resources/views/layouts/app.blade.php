@@ -6,7 +6,7 @@
 
     <title>Laravel</title>
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wgt@400;600&display=swap">
+    <?php /* <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wgt@400;600&display=swap"> */ ?>
 
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
