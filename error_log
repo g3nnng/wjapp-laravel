@@ -1,0 +1,5 @@
+[26-Jan-2025 07:39:04 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/Solver.php on line 223
+[26-Jan-2025 07:40:24 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/Solver.php on line 223
+[26-Jan-2025 07:43:25 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/Solver.php on line 223
+[26-Jan-2025 07:45:16 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/RuleWatchGraph.php on line 52
+[26-Jan-2025 08:03:22 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/RuleWatchGraph.php on line 52
