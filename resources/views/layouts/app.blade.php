@@ -1,0 +1,1 @@
+<script src="https://unpkg.com/vue@3.2.47"></script>
